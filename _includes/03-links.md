@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Check out the 9front Operating System!](http://9front.org)
