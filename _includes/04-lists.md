@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+I liek
+  - Virtual Reality (current setup: HTC Vive)
+  - Web and App development
+    - Go
+    - Elm
+    - Rust
+    - C
+    - Unity
+    - C#
+  - Gardening
+  - Cooking
