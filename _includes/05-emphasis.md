@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I *love* **Go** and **Plan 9**.
+I have the most experience with **C**, **Go**, and **Java**.
+I want to learn more **Python**, **Elm**, and **Rust**
