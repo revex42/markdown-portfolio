@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Zero from Mega Man X](https://vignette.wikia.nocookie.net/megaman/images/f/fb/Rockman_X_DiVE_Hunter_Zero.png)
