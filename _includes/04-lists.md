@@ -1,0 +1,11 @@
+I liek
+  - Virtual Reality (current setup: HTC Vive)
+  - Web and App development
+    - Go
+    - Elm
+    - Rust
+    - C
+    - Unity
+    - C#
+  - Gardening
+  - Cooking
